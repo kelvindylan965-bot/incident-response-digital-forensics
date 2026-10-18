@@ -1,0 +1,14 @@
+INCIDENT RESPONSE — INITIAL EVIDENCE REPORT
+==============================================
+Evidence type: Simulated SSH authentication log
+SHA-256 verified: 7783b2973a3c38eb086b80968dbe21799f7f9c41b60667ea5d0723d8cefb6144
+Parsed events: 6
+Failed logins: 4
+Successful logins: 2
+Unparsed lines: 0
+
+Failed login counts by source IP:
+  198.51.100.77: 3
+  203.0.113.44: 1
+
+Assessment: Repeated failures from one source may warrant investigation. This simulated log alone does not prove a successful compromise.
